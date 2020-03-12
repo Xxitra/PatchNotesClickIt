@@ -1,0 +1,40 @@
+Bienvenidos a las notas de Parche de la Pre Alpha 2 de "Click It!"
+Aquí te informarás de los últimos cambios de este juego. Sin más dilación, empecemos.
+
+1.Se han incluido los skins para el cursor.
+  1.1.Cursor básico color Azul
+  1.2.Cursor básico color Celeste
+  1.3.Cursor básico color Verde
+  1.4.Cursor básico color Rojo
+  1.5.Cursor básico color Amarillo
+  1.6.Cursor básico color Rosado
+  1.7.Cursor básico color Negro u Invertido
+
+2.Se han incluido nuevas canciones de fondo.
+  2.1.Dirty Palm - To The Back [NCS Release]
+  
+3.Se incluyen nuevos iconos interactivos.
+  3.1.Icono de las notas de parche
+  3.2.Icono de silenciar audio
+  3.3.Icono de Salir del juego
+
+4.Se añadieron nuevas variables de inicio al código global.
+  4.1.global.cursor2 = 0 //CURSOR2
+  4.2.global.cursor3 = 0 //CURSOR3
+  4.3.global.cursor4 = 0 //CURSOR4
+  4.4.global.cursor5 = 0 //CURSOR5
+  4.5.global.cursor6 = 0 //CURSOR6
+  4.6.global.cursor7 = 0 //CURSOR7
+  4.7.global.cursor8 = 0 //CURSOR8
+  
+5.Se han añadido nuevos sonidos.
+  5.1.Sonido al hacer click al circulo de recolecta
+  
+6.Se han hecho cambios minimos a la pantalla de "Un juego creado por Xxitra".
+
+7.Se ha añadido la función de salir del juego mediante un icono.
+
+8.Se ha añadido la interfaz del mouse.
+
+Con esto se acaban las notas de parche de la pre alpha 2 de "Click It!"
+¡Hasta otra update!
